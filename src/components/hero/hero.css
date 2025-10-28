@@ -1,0 +1,16 @@
+#hero{
+    padding-top: 200px;
+    padding-bottom: 150px;
+    background-color: #1ABC9C;
+    color: #fff;
+}
+
+.avatar{
+    width: 150px;
+    height: 150px;
+}
+.line{
+    width: 10rem; 
+    height: 4px; 
+    background: #fff;
+}
