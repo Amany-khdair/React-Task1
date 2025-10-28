@@ -1,6 +1,7 @@
 import avatar from './../../assets/avatar.svg';
 import './hero.css';
 
+
 function Hero(){
     return (
     <header id="hero" className="py-5 my-5 text-center">
