@@ -1,5 +1,4 @@
 import './about.css';
-
 function About() {
   return (
     <section id="about" className="py-5">
