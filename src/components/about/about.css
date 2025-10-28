@@ -1,0 +1,16 @@
+#about{
+    background-color: #1ABC9C;
+    color: #fff;
+}
+
+#about .para {
+  text-align: start;
+  height: 100%; 
+}
+
+#about p {
+    font-size: 1.25rem;
+    line-height: 1.7;
+    max-width: 400px;
+    margin: 0;
+}
