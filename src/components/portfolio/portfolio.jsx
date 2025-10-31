@@ -19,7 +19,7 @@ function Portfolio() {
   return (
     <section id="portfolio" className="py-4">
       <div className="container">
-        <h2 className="text-center text-text-uppercase fs-1 p-color mb-4">Portfolio</h2>
+        <h2 className="text-center text-text-uppercase fs-1 p-color my-5 by-5">Portfolio</h2>
         <div className="row g-4">
           {items.map(item => (
             <div key={item.id} className="col-sm-6 col-md-4">

@@ -48,7 +48,7 @@ function Contact() {
   return (
     <section id="contact" className="py-5">
       <div className="container">
-        <h2 className="text-center text-uppercase p-color fs-1 fw-bold mb-5"> Contact Me </h2>
+        <h2 className="text-center text-uppercase p-color fs-1 fw-bold my-5"> Contact Me </h2>
         <div className="row justify-content-center">
             <div className="col-lg-8">
                 <form onSubmit={handleSubmit}>

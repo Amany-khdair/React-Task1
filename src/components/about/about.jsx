@@ -3,7 +3,7 @@ function About() {
   return (
     <section id="about" className="py-5">
       <div className="container text-center">
-        <h2 className="text-uppercase text-white fs-1 fw-bold mb-5">About</h2>
+        <h2 className="text-uppercase text-white fs-1 fw-bold mb-5 py-5">About</h2>
 
         <div className="row justify-content-center align-items-stretch">
           <div className="col-md-4 d-flex align-items-center justify-content-center para">
